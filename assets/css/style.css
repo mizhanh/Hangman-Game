@@ -1,0 +1,18 @@
+
+.jumbotron {
+	padding-top: 100px;
+	background-image: url(../images/halloween-bg-2.jpg);
+	background-size: cover;
+	text-align: right;
+	color: black;
+}
+
+.col-md-7 {
+	text-align: center;
+	font-size: 15px;
+}
+
+.row {
+	padding-top: 20px;
+	background-image: url(../images/halbg3.gif);
+}
